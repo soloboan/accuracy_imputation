@@ -1,5 +1,5 @@
 <img src="icon.png" align="right" />
-## accuracy_imputation
+## Computing accuracy of imputation
 Computing imputation accuracy with imputed data formats ranging from 
 
 - dosages (discrete genotypes 0, 1, 2)
